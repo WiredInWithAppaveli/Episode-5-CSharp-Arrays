@@ -1,0 +1,7 @@
+C:\Users\power\Documents\Wired in with Appaveli Podcast\Episode5\Episode5\bin\Debug\Episode5.exe.config
+C:\Users\power\Documents\Wired in with Appaveli Podcast\Episode5\Episode5\bin\Debug\Episode5.exe
+C:\Users\power\Documents\Wired in with Appaveli Podcast\Episode5\Episode5\bin\Debug\Episode5.pdb
+C:\Users\power\Documents\Wired in with Appaveli Podcast\Episode5\Episode5\obj\Debug\Episode5.csprojAssemblyReference.cache
+C:\Users\power\Documents\Wired in with Appaveli Podcast\Episode5\Episode5\obj\Debug\Episode5.csproj.CoreCompileInputs.cache
+C:\Users\power\Documents\Wired in with Appaveli Podcast\Episode5\Episode5\obj\Debug\Episode5.exe
+C:\Users\power\Documents\Wired in with Appaveli Podcast\Episode5\Episode5\obj\Debug\Episode5.pdb
